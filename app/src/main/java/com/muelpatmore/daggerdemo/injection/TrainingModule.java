@@ -1,4 +1,6 @@
-package com.muelpatmore.daggerdemo;
+package com.muelpatmore.daggerdemo.injection;
+
+import com.muelpatmore.daggerdemo.TrainingScores;
 
 import dagger.Module;
 import dagger.Provides;
